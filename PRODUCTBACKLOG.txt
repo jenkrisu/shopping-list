@@ -1,0 +1,29 @@
+PRODUCT BACKLOG
+
+    File       : PRODUCTBACKLOG.txt
+    Time-stamp : 2016-12-18 Jenni Unkuri
+    Description: Product Backlog is the master list of all functionality 
+                 desired in the product.
+
+PRODUCT BACKLOG WITH RELEASES
+
+    RELEASE 1: 2016-11-29
+
+    - User can add items in command line interface
+    - User can increase amount of items added previously
+    - User can decrease amount of items added previously
+
+    RELEASE 2: 2016-12-07
+
+    - User can add items in graphical user interface
+    - User can change amount of items added previously
+    - User can save shopping list to text-file
+    - User can open shopping list from text-file
+    - User can remove selected or all items
+
+    RELEASE 3: 2016-12-20
+
+    - User can combine shopping lists
+    - User can modify items shown in graphical user interface
+
+End of file.

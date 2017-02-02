@@ -1,0 +1,34 @@
+RELEASE NOTES
+
+    File          : RELEASENOTES.txt
+    Time-stamp    : 2016-12-18 Jenni Unkuri
+    Description   : Release notes for release 3
+    Amount of work: 6 h
+    
+GENERAL INFO
+
+    Shopping list is created in a graphical user interface. Amount of items
+    can be changed and selected or all items removed. Shopping list can be
+    saved locally to text-file and opened from text-file.
+    
+    Features of graphical user interface are not implemented to command line
+    interface. Command line interface supports adding multiple items at once
+    and printing the current shopping list to command prompt.
+
+PLANNED FEATURES FROM PRODUCT BACKLOG
+
+    Following features where planned for this release:
+
+    - User can combine shopping lists
+    - User can save shopping list to Dropbox
+    - User can open shopping list from Dropbox
+
+IMPLEMENTED FEATURES
+
+    - User can combine shopping lists
+    - User can modify items shown in graphical user interface
+    
+    Product backlog (PRODUCTBACKLOG.txt) has been updated to
+    correspond to the new situation.
+
+End of file.
